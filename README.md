@@ -1,21 +1,30 @@
-demoblaze ecommerce website validated and identified bugs. Bugs reports are maintained in excel. 
+demoblaze ecommerce website validated and identified bugs.
+Bugs reports are maintained in excel. 
+
 Bug reports contains
 Bug ID:
   ID number
 	Name
 	Reporter
 	Submit Date
-Bug overview	Summary
+ 
+Bug overview:	
+        Summary
 	URL
 	Screenshot
-Environment	Operating System
+ 
+Environment:	
+        Operating System
 	Browser
 	Steps to reproduce
-Bug details	
-  Expected result
+ 
+Bug details:	
+        Expected result
 	Actual result
 	Description
 	Severity
-Bug tracking	Assigned to
+ 
+Bug tracking:
+        Assigned to
 	Priority
 	Improvements needed
